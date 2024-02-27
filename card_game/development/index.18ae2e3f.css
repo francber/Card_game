@@ -1,0 +1,159 @@
+.container {
+  display: flex;
+}
+
+.begoneborder {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+body {
+  background-color: #add8e6;
+}
+
+body section {
+  width: 1000px;
+  height: 500px;
+  font-size: 12px;
+}
+
+.backcard {
+  background-image: url("cardturnedover.e883744e.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.vcard0 {
+  background-image: url("card0n.81b8a8f8.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.vcard1 {
+  background-image: url("card1n.aac3967f.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.vcard2 {
+  background-image: url("card2n.2dcb8c95.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.vcard3 {
+  background-image: url("card3n.b6db59d0.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.vcard4 {
+  background-image: url("card4n.9b31fbd7.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.vcard5 {
+  background-image: url("card5n.5cb0dbec.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.vcard6 {
+  background-image: url("card6n.25cec360.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.vcard7 {
+  background-image: url("card7n.c95a6843.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.vcard8 {
+  background-image: url("card8n.803ab78f.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.vcard9 {
+  background-image: url("card9n.bd327212.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.vcard10 {
+  background-image: url("card10n.3fe2a5bf.png");
+  width: 109px;
+  height: 150px;
+  display: block;
+}
+
+.doub {
+  background-image: url("doub.cdd31384.png");
+  width: 109px;
+  height: 150px;
+}
+
+.doubi {
+  background-image: url("doubi.f56863cc.png");
+  width: 109px;
+  height: 150px;
+}
+
+.yc {
+  background-image: url("yc.150ab93b.png");
+  width: 109px;
+  height: 150px;
+}
+
+.oc {
+  background-image: url("oc.846c7568.png");
+  width: 109px;
+  height: 150px;
+}
+
+.uc {
+  background-image: url("uc.0dcb6f11.png");
+  width: 109px;
+  height: 150px;
+}
+
+.wc {
+  background-image: url("wc.acac5ed2.png");
+  width: 109px;
+  height: 150px;
+}
+
+.ic {
+  background-image: url("ic.361e2b09.png");
+  width: 109px;
+  height: 150px;
+}
+
+.nc {
+  background-image: url("nc.c9e98af2.png");
+  width: 109px;
+  height: 150px;
+}
+
+.qc {
+  background-image: url("qc.3f57a256.png");
+  width: 109px;
+  height: 150px;
+}
+
+/*# sourceMappingURL=index.18ae2e3f.css.map */
